@@ -1,4 +1,5 @@
-# BookNook
+# ShelfScout
+
 
 BookNook is a modern book tracking application built with Next.js, Tailwind CSS, and Supabase. It allows users to manage their book collections, reading lists, challenges, and more.
 
